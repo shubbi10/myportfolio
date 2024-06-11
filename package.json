@@ -32,7 +32,7 @@
   },
   "engines": {
     "npm": ">=10.8.0",
-    "node": "v20.14.0"
+    "node": "v20.x"
   },
   "eslintConfig": {
     "extends": [
